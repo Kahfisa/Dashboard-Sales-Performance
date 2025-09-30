@@ -22,11 +22,6 @@ This project is part of the Virtual Project-Based Internship program organized b
 |Products            |Contains information about product details                               |ProdNumber, ProdName, Category, Price                                                                                   |
 
 
-## Entity Relationship Diagram
-
-<img width="1094" height="594" alt="image" src="https://github.com/user-attachments/assets/a2006a8f-385b-44fc-8887-2ff49411b565" />
-
-
 ## Business Question
 - What is the total overall sales generated?
 - What is the total sales for each product category?
