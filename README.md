@@ -40,8 +40,9 @@ This project is part of the Virtual Project-Based Internship program organized b
 
 ## Dashboard Preview
 
-<img width="1203" height="901" alt="image" src="https://github.com/user-attachments/assets/f593d030-13c1-4f54-95d3-8162cbe12dc5" />
+<img width="1000" height="748" alt="image" src="https://github.com/user-attachments/assets/12894f81-1235-493f-8edf-69db9f289b19" />
 
+Logo Source: Icon made by kmg design from www.flaticon.com
 
 ## Insight & Recommendation
 - Total sales during 2020–2021 experienced significant fluctuations, with the highest revenue recorded in June 2021 and the lowest in October 2021. The consistent decline at the beginning of both 2020 and 2021 indicates a partial seasonal pattern that the company can leverage to design more effective promotional strategies and inventory management.
