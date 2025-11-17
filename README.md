@@ -14,12 +14,12 @@ This project is part of the Virtual Project-Based Internship program organized b
   
 
 ## Dataset
-|Dataset             |Description                                                              |Column                                                                                                                  |
-|--------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+|Dataset             |Description                                                              |Column                                                                                                              |
+|--------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 |Customers           |Contains information about customer.                                     |CustomerID, FirstName, LastName, CustomerEmail, CustomerPhone, CustomerAddress, CustomerCity, CustomerState, CustomerZip|
-|Orders              |Contains information about order transactions.                           |OrderID, Date, CustomerID, ProdNumber, Quantity                                                                         |
-|Product Category    |Contains information about product category names.                       |CategoryID, Categoryname, CategoryAbbreviation                                                                          |
-|Products            |Contains information about product details                               |ProdNumber, ProdName, Category, Price                                                                                   |
+|Orders              |Contains information about order transactions.                           |OrderID, Date, CustomerID, ProdNumber, Quantity                                                                     |
+|Product Category    |Contains information about product category names.                       |CategoryID, Categoryname, CategoryAbbreviation                                                                      |
+|Products            |Contains information about product details                               |ProdNumber, ProdName, Category, Price                                                                               |
 
 
 ## Business Question
