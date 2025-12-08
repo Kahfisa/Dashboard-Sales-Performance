@@ -40,11 +40,11 @@ This project is part of the Virtual Project-Based Internship program organized b
 
 ## Dashboard Preview
 
-<img width="1000" height="748" alt="image" src="https://github.com/user-attachments/assets/12894f81-1235-493f-8edf-69db9f289b19" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/665921c6-4031-4238-bf82-0e00c0e0960d" />
 
 Logo Source: Icon made by kmg design from www.flaticon.com
 
 ## Insight & Recommendation
-- Total sales during 2020–2021 experienced significant fluctuations, with the highest revenue recorded in June 2021 and the lowest in October 2021. The consistent decline at the beginning of both 2020 and 2021 indicates a partial seasonal pattern that the company can leverage to design more effective promotional strategies and inventory management.
-- The robot category generated the highest revenue at 743.5 thousand despite only 1.1 thousand units sold. Meanwhile, ebooks, training videos, and blueprints recorded higher sales volumes but contributed less than 100 thousand in revenue due to their lower price range. This difference in pricing structure and revenue contribution presents an opportunity for the company to implement a bundling strategy by combining high-priced products such as robots or drones with lower-priced products like ebooks and training videos.
-- Washington recorded the highest revenue at 55 thousand with a total of 308 products sold. The high demand in this region highlights the importance of optimal stock management to ensure product availability and prevent potential sales loss due to stockouts.
+- Total sales decreased from 931,204 in 2020 to 841,495 in 2021, representing a decline of 9.63%. Despite the overall annual drop, sales performance in 2021 reached its peak in June, making it the highest-selling month of the year.
+- The robot category generated the highest sales at 743.5K despite only 1.1K units sold. Meanwhile, ebooks, training videos, and blueprints recorded higher sales volumes but contributed less than 100 thousand in sales due to their lower price range. This difference in pricing structure and revenue contribution presents an opportunity for the company to implement a bundling strategy by combining high-priced products such as robots or drones with lower priced products like ebooks and training videos.
+- Washington recorded the highest sales at 55.381 with a total of 308 products sold. The high demand in this region highlights the importance of optimal stock management to ensure product availability and prevent potential sales loss due to stockouts.
