@@ -12,3 +12,4 @@ INNER JOIN bank_muamalat.orders as os ON cs.CustomerID = os.CustomerID
 INNER JOIN bank_muamalat.products as ps ON os.ProdNumber = ps.ProdNumber
 INNER JOIN bank_muamalat.product_category as pc on ps.Category = pc.CategoryID
 ORDER BY os.Date ASC
+
